@@ -1,0 +1,5 @@
+.about {
+  height: 100vh;
+    background-image: url('../../assets/about.jpeg');
+  background-size: cover;
+}
